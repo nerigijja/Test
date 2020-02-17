@@ -75,42 +75,10 @@ public class BaseClass
 	{
 		explicitWait(3000, filename, webelement);
 		try {
-		/*	scrollToElement(filename, webelement);
-			if(Xpath(filename,webelement).isDisplayed() && Xpath(filename,webelement).isEnabled()) {
-				WebElement complexelement=Xpath(filename, webelement);		
-				Actions act=new Actions(driver);
-				act.moveToElement(complexelement);
-				act.click();
-				act.sendKeys(ReadExcel.readData(fname, sheet, row, column)).build().perform();
-				{
-				if (Xpath(filename,webelement).getAttribute("value").isEmpty() && Xpath(filename,webelement).getText().isEmpty()) {
-					Xpath(filename,webelement).sendKeys(ReadExcel.readData(fname, sheet, row, column));
-				}
 			
-			}*/
-				
-				do {
-					WebElement complexelement1=Xpath(filename, webelement);		
-					Actions act1=new Actions(driver);
-					act1.moveToElement(complexelement1);
-					act1.click();
-					act1.sendKeys(ReadExcel.readData(fname, sheet, row, column)).build().perform();
-					
-				} while (Xpath(filename,webelement).getText().contains(""));
-				
-				Xpath(filename,webelement).sendKeys(ReadExcel.readData(fname, sheet, row, column));
-			
-				
-				{
-					
-				}
-			/*}*/
-		/*
-		else {
-			System.out.println("Provided text is already entered in the text field");
-				
-			}	*/
-		} 
+			Xpath(filename,webelement).sendKeys(ReadExcel.readData(fname, sheet, row, column));
+		}
+		
 			
 		catch ( NoSuchElementException exception) {
 			scrollToElement(filename, webelement);
