@@ -1,0 +1,11 @@
+EnrollmentReferenceNumber,MeasureCode,MeasureSubCode,MeasureReferenceNumber,InventorySerialNumber,MeterNumber,ProposedQuantity,ActualQuantity,ProposedMeasureCostAmount,ActualMeasureCostAmount,ProposedIncrementalMeasureCostAmount,ActualIncrementalMeasureCostAmount,ProposedIncentiveAmount,ActualIncentiveAmount,Phase,MeasurePayee,InstallationVendorNumber,InstallationVendorEmployeeId,InstallationDate,Proposed kWh,Actual kWh,Proposed kW,Actual kW,Proposed Winter kW,Actual Winter kW,Proposed Summer kW,Actual Summer kW,Proposed Therms,Actual Therms,Proposed Water (CCF),Actual Water (CCF),Proposed Natural Gas (MMBtu),Actual Natural Gas (MMBtu),Proposed Oil (MMBtu),Actual Oil (MMBtu),Proposed Propane (MMBtu),Actual Propane (MMBtu),Proposed Kerosene (MMBtu),Actual Kerosene (MMBtu),Proposed Wood (MMBtu),Actual Wood (MMBtu),MeasureProperty-SavingsUpdate,MeasureProperty-Manufacturer,MeasureProperty-Pre-installationR-level,MeasureProperty-Post-installationR-level,MeasureProperty-Comment,MeasureProperty-HiddenText,MeasureProperty-Hiddenfield
+306102018-20,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-21,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-22,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-23,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-24,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-25,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-26,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-27,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-28,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,
+306102018-29,AINS,,1,,,600,500,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Manufacturer Name,5,15,This is a test,,

@@ -1,0 +1,4 @@
+HECCalcResultsId,RecommendationCategory,RecommendationType,Cost,KWHSaving,FuelSaving,CarbonSaving,MeasureCode,MeasureSubCode,RecommendedMeasureCode,RecommendedMeasureSubCode
+03552017-1,test,test,10,523,0,0,AuditRec,AuditBI,,
+03552017-1,test,test,10,650,0,0,AuditRec,AuditEI,,
+03552017-1,test,test,10,523,0,0,AuditRec,AuditBI,,
